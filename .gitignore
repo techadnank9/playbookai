@@ -1,0 +1,28 @@
+__pycache__/
+*.pyc
+.env
+agent_config.yaml
+.DS_Store
+node_modules/
+.next/
+
+# InsForge & AI agent skills
+.insforge
+.agent
+.agents
+.augment
+.claude
+.cline
+.github/copilot*
+.kilocode
+.qoder
+.qwen
+.roo
+.trae
+.windsurf
+out/
+
+# Local secrets
+.env.local
+*.pem
+secrets/

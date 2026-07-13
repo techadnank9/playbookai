@@ -1,0 +1,13 @@
+# Core
+requests>=2.31.0
+python-dotenv>=1.0.0
+pyyaml>=6.0
+
+# Nimble (optional SDK; raw HTTP also works via requests)
+# nimble-python
+
+# Band coordination (Phase 4) — add extras per framework used
+# band-sdk[anthropic]
+
+# LLM (routed through InsForge model gateway; provider SDK optional)
+# anthropic
