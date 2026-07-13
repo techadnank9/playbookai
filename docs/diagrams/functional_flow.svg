@@ -1,0 +1,56 @@
+<svg width="700" height="640" viewBox="0 0 700 640" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="#666" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect width="700" height="640" fill="#ffffff"/>
+  <text x="350" y="28" text-anchor="middle" font-size="16" font-weight="600" fill="#222">Playbook AI — functional flow</text>
+
+  <g>
+    <rect x="260" y="48" width="180" height="44" rx="8" fill="#F1EFE8" stroke="#5F5E5A" stroke-width="0.5"/>
+    <text x="350" y="75" text-anchor="middle" font-size="14" font-weight="500" fill="#2C2C2A">Enter a company URL</text>
+  </g>
+  <line x1="350" y1="92" x2="350" y2="118" stroke="#666" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <g>
+    <rect x="240" y="118" width="220" height="56" rx="8" fill="#EEEDFE" stroke="#534AB7" stroke-width="0.5"/>
+    <text x="350" y="141" text-anchor="middle" font-size="14" font-weight="500" fill="#26215C">Learn the company</text>
+    <text x="350" y="160" text-anchor="middle" font-size="12" fill="#534AB7">Who they are, what they sell</text>
+  </g>
+  <line x1="350" y1="174" x2="350" y2="200" stroke="#666" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <g>
+    <rect x="220" y="200" width="260" height="56" rx="8" fill="#EEEDFE" stroke="#534AB7" stroke-width="0.5"/>
+    <text x="350" y="223" text-anchor="middle" font-size="14" font-weight="500" fill="#26215C">Spin up platform specialists</text>
+    <text x="350" y="242" text-anchor="middle" font-size="12" fill="#534AB7">LinkedIn, X, Instagram, TikTok, YouTube</text>
+  </g>
+  <line x1="350" y1="256" x2="350" y2="282" stroke="#666" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <g>
+    <rect x="240" y="282" width="220" height="56" rx="8" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
+    <text x="350" y="305" text-anchor="middle" font-size="14" font-weight="500" fill="#04342C">Study rivals per platform</text>
+    <text x="350" y="324" text-anchor="middle" font-size="12" fill="#0F6E56">How competitors win there</text>
+  </g>
+  <line x1="350" y1="338" x2="350" y2="364" stroke="#666" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <g>
+    <rect x="240" y="364" width="220" height="56" rx="8" fill="#FAECE7" stroke="#993C1D" stroke-width="0.5"/>
+    <text x="350" y="387" text-anchor="middle" font-size="14" font-weight="500" fill="#4A1B0C">Converge into a playbook</text>
+    <text x="350" y="406" text-anchor="middle" font-size="12" fill="#993C1D">Plus the biggest gap to exploit</text>
+  </g>
+  <line x1="350" y1="420" x2="350" y2="446" stroke="#666" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <g>
+    <rect x="230" y="446" width="240" height="56" rx="8" fill="#FAECE7" stroke="#993C1D" stroke-width="0.5"/>
+    <text x="350" y="469" text-anchor="middle" font-size="14" font-weight="500" fill="#4A1B0C">Find people, draft messages</text>
+    <text x="350" y="488" text-anchor="middle" font-size="12" fill="#993C1D">Creators and prospects, public contact</text>
+  </g>
+  <line x1="350" y1="502" x2="350" y2="528" stroke="#666" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <g>
+    <rect x="220" y="528" width="260" height="56" rx="8" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.5"/>
+    <text x="350" y="551" text-anchor="middle" font-size="14" font-weight="500" fill="#173404">Per-platform action pack</text>
+    <text x="350" y="570" text-anchor="middle" font-size="12" fill="#3B6D11">What to post, who to contact, what to say</text>
+  </g>
+</svg>

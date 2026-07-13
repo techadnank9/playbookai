@@ -1,0 +1,26 @@
+# One block per Band agent. Register each at app.band.ai/agents,
+# copy the API key (shown once) and Agent UUID. Add to .gitignore.
+scout:
+  agent_id: "uuid-for-scout"
+  api_key:  "band-key-for-scout"
+linkedin_agent:
+  agent_id: "uuid-for-linkedin"
+  api_key:  "band-key-for-linkedin"
+x_agent:
+  agent_id: "uuid-for-x"
+  api_key:  "band-key-for-x"
+instagram_agent:
+  agent_id: "uuid-for-instagram"
+  api_key:  "band-key-for-instagram"
+tiktok_agent:
+  agent_id: "uuid-for-tiktok"
+  api_key:  "band-key-for-tiktok"
+youtube_agent:
+  agent_id: "uuid-for-youtube"
+  api_key:  "band-key-for-youtube"
+strategist:
+  agent_id: "uuid-for-strategist"
+  api_key:  "band-key-for-strategist"
+outreach:
+  agent_id: "uuid-for-outreach"
+  api_key:  "band-key-for-outreach"
